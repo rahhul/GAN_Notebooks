@@ -1,8 +1,5 @@
 # GANs
 Autoencoders and GANs
- 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
 
 ## t-SNE
 Original Paper: http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf <br>
