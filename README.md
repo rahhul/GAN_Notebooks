@@ -1,5 +1,8 @@
 # GANs
 Autoencoders and GANs
+ 
+![Autoencoders model architecture]
+("https://lilianweng.github.io/lil-log/assets/images/autoencoder-architecture.png")
 
 ## t-SNE
 Original Paper: http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf <br>
