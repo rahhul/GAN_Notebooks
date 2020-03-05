@@ -1,8 +1,8 @@
 # GANs
 Autoencoders and GANs
  
-![Autoencoder Model Architecture]
-(https://lilianweng.github.io/lil-log/assets/images/autoencoder-architecture.png)
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
 
 ## t-SNE
 Original Paper: http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf <br>
