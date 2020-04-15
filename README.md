@@ -1,5 +1,5 @@
 # GANs
-Autoencoders and GANs
+Autoencoders and Generative Adversarial Networks (GANs)
 
 ## t-SNE
 Original Paper: http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf <br>
